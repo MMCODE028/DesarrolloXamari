@@ -1,0 +1,15 @@
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\bin\Debug\netstandard2.0\Appmovil.deps.json
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\bin\Debug\netstandard2.0\Appmovil.dll
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\bin\Debug\netstandard2.0\Appmovil.pdb
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\obj\Debug\netstandard2.0\Appmovil.csproj.AssemblyReference.cache
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\obj\Debug\netstandard2.0\Appmovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\obj\Debug\netstandard2.0\Appmovil.AssemblyInfoInputs.cache
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\obj\Debug\netstandard2.0\Appmovil.AssemblyInfo.cs
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\obj\Debug\netstandard2.0\Appmovil.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\obj\Debug\netstandard2.0\Appmovil.dll
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\obj\Debug\netstandard2.0\refint\Appmovil.dll
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\obj\Debug\netstandard2.0\Appmovil.pdb
+C:\Users\CARLOS\source\repos\Appmovil\Appmovil\Appmovil\obj\Debug\netstandard2.0\ref\Appmovil.dll
